@@ -1,5 +1,6 @@
 # 简单的rqt plugin例程
 参考：https://wiki.ros.org/rqt/Tutorials
+回调函数中用了我写的另一个测试包：
 
 # 核心内容：
 ## UI界面
